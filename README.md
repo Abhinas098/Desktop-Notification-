@@ -1,7 +1,7 @@
 # Desktop-Notification:
 This Desktop Notifier Using GUI Interface. 
 
-It remind you about your task by giving you a notification so you don't miss out on your routins.
+It remind you about your task by giving you a notification so you don't miss out on your plans.
 
 Requirement Packages:
 
